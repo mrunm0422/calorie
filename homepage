@@ -1,1 +1,6 @@
+# Choose if want to know how many calories or if food is healthy
+value = input ("Welcome")
+print (value)
+value = input ("Choose an option")
+print (value)
 
